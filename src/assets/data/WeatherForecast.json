@@ -1,0 +1,21 @@
+[{
+	"temperatureC": 10,
+	"temperatureF": 40,
+	"date": "2019-12-21",
+	"summary": "Good"
+}, {
+	"temperatureC": 20,
+	"temperatureF": 50,
+	"date": "2019-12-22",
+	"summary": "Bad"
+}, {
+	"temperatureC": 30,
+	"temperatureF": 60,
+	"date": "2019-12-23",
+	"summary": "Very Good"
+}, {
+	"temperatureC": 40,
+	"temperatureF": 70,
+	"date": "2019-12-24",
+	"summary": "Good"
+}]
